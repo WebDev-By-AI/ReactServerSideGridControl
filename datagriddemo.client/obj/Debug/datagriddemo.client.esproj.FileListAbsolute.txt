@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\DataGridDemo\datagriddemo.client\obj\Debug\datagriddemo.client.esproj.CoreCompileInputs.cache
