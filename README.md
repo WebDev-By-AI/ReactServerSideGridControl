@@ -7,3 +7,5 @@ Pagining and Filtering dont need any adiitional package but Sorting need additio
 
 Package is Linq.Dynamic.Core
 
+In order to execute the project, Cloen repository, Restore packages
+Run the projects.
