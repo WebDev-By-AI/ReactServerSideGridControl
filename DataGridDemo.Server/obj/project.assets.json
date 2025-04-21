@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DataGridDemo\\DataGridDemo.Server\\DataGridDemo.Server.csproj",
+      "projectUniqueName": "D:\\ReactJsGridControl\\ReactServerSideGridControl\\DataGridDemo.Server\\DataGridDemo.Server.csproj",
       "projectName": "DataGridDemo.Server",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DataGridDemo\\DataGridDemo.Server\\DataGridDemo.Server.csproj",
+      "projectPath": "D:\\ReactJsGridControl\\ReactServerSideGridControl\\DataGridDemo.Server\\DataGridDemo.Server.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DataGridDemo\\DataGridDemo.Server\\obj\\",
+      "outputPath": "D:\\ReactJsGridControl\\ReactServerSideGridControl\\DataGridDemo.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
